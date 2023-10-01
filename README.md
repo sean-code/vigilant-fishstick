@@ -4,14 +4,20 @@ Section A
 Sorting Algorithms:
 
 1. Implement the merge sort algorithm for sorting a linked list. Analyze the time and space complexity of your implementation.
-2. Modify the Quick Sort algorithm to use three-way partitioning, which is particularly useful for duplicate keys.
+
+
+
+3.
+Explain how you would apply merge sort to sort large files that don't
+fit into memory. Discuss the challenges and steps involved.
 
 
 
 Section B
 Searching Algorithms:
 1. Implement the interpolation search algorithm and explain how it differs from binary search. Analyze its time complexity.
-2. Implement the exponential search algorithm for a sorted array and analyze its time complexity.
+
+
 
 
 
@@ -42,10 +48,8 @@ function fibonacci(n) {
 
 Section D
 Arrays, Linked Lists, Stacks, Queues:
-1.
-Implement a queue data structure using two stacks. Analyze the time
-complexity of enqueue and dequeue operations.Trees, Binary Trees, Binary
-Search Trees:
-2. Implement the insertion operation for an AVL tree,
-ensuring that the tree remains balanced. Discuss the rotations required
-and their complexity.
+
+
+3. Explain the concept of a threaded binary
+tree, and implement an algorithm to convert a binary tree into a
+threaded binary tree.
