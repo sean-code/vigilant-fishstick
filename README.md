@@ -1,20 +1,17 @@
-QUESTIONS
+**QUESTIONS**
 
-Section A
-Sorting Algorithms:
+`Section A || Sorting Algorithms:`
 
 1. Implement the merge sort algorithm for sorting a linked list. Analyze the time and space complexity of your implementation.
 
 
 
-3.
-Explain how you would apply merge sort to sort large files that don't
+3. Explain how you would apply merge sort to sort large files that don't
 fit into memory. Discuss the challenges and steps involved.
 
 
 
-Section B
-Searching Algorithms:
+`Section B || Searching Algorithms:`
 1. Implement the interpolation search algorithm and explain how it differs from binary search. Analyze its time complexity.
 
 
@@ -22,7 +19,7 @@ Searching Algorithms:
 
 
 
-Section C
+`Section C`
 
 1. Time and Space Complexity Analysis:
 Analyze the time and space complexity, including
@@ -46,8 +43,8 @@ function fibonacci(n) {
 
 
 
-Section D
-Arrays, Linked Lists, Stacks, Queues:
+`Section D ||
+Arrays, Linked Lists, Stacks, Queues:`
 
 
 3. Explain the concept of a threaded binary
